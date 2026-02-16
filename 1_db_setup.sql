@@ -23,4 +23,5 @@ BEGIN
 END$$
 DELIMITER ;
 
-CALL GenerateSyntheticData();
+CALL GenerateSyntheticData()
+;
